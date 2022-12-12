@@ -1,0 +1,17 @@
+C:\Users\lezni\OneDrive\Desktop\Учеба проекты\LabMahmur\1lab\1LabMahm\bin\Debug\net6.0-windows\1LabMahm.exe
+C:\Users\lezni\OneDrive\Desktop\Учеба проекты\LabMahmur\1lab\1LabMahm\bin\Debug\net6.0-windows\1LabMahm.deps.json
+C:\Users\lezni\OneDrive\Desktop\Учеба проекты\LabMahmur\1lab\1LabMahm\bin\Debug\net6.0-windows\1LabMahm.runtimeconfig.json
+C:\Users\lezni\OneDrive\Desktop\Учеба проекты\LabMahmur\1lab\1LabMahm\bin\Debug\net6.0-windows\1LabMahm.dll
+C:\Users\lezni\OneDrive\Desktop\Учеба проекты\LabMahmur\1lab\1LabMahm\bin\Debug\net6.0-windows\1LabMahm.pdb
+C:\Users\lezni\OneDrive\Desktop\Учеба проекты\LabMahmur\1lab\1LabMahm\obj\Debug\net6.0-windows\1LabMahm.csproj.AssemblyReference.cache
+C:\Users\lezni\OneDrive\Desktop\Учеба проекты\LabMahmur\1lab\1LabMahm\obj\Debug\net6.0-windows\_1LabMahm.Form1.resources
+C:\Users\lezni\OneDrive\Desktop\Учеба проекты\LabMahmur\1lab\1LabMahm\obj\Debug\net6.0-windows\1LabMahm.csproj.GenerateResource.cache
+C:\Users\lezni\OneDrive\Desktop\Учеба проекты\LabMahmur\1lab\1LabMahm\obj\Debug\net6.0-windows\1LabMahm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lezni\OneDrive\Desktop\Учеба проекты\LabMahmur\1lab\1LabMahm\obj\Debug\net6.0-windows\1LabMahm.AssemblyInfoInputs.cache
+C:\Users\lezni\OneDrive\Desktop\Учеба проекты\LabMahmur\1lab\1LabMahm\obj\Debug\net6.0-windows\1LabMahm.AssemblyInfo.cs
+C:\Users\lezni\OneDrive\Desktop\Учеба проекты\LabMahmur\1lab\1LabMahm\obj\Debug\net6.0-windows\1LabMahm.csproj.CoreCompileInputs.cache
+C:\Users\lezni\OneDrive\Desktop\Учеба проекты\LabMahmur\1lab\1LabMahm\obj\Debug\net6.0-windows\1LabMahm.dll
+C:\Users\lezni\OneDrive\Desktop\Учеба проекты\LabMahmur\1lab\1LabMahm\obj\Debug\net6.0-windows\refint\1LabMahm.dll
+C:\Users\lezni\OneDrive\Desktop\Учеба проекты\LabMahmur\1lab\1LabMahm\obj\Debug\net6.0-windows\1LabMahm.pdb
+C:\Users\lezni\OneDrive\Desktop\Учеба проекты\LabMahmur\1lab\1LabMahm\obj\Debug\net6.0-windows\1LabMahm.genruntimeconfig.cache
+C:\Users\lezni\OneDrive\Desktop\Учеба проекты\LabMahmur\1lab\1LabMahm\obj\Debug\net6.0-windows\ref\1LabMahm.dll
